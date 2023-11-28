@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>HTML Table</h2>
+
+<table>
+  <tr>
+    <th>Teahcer</th>
+    <th>Class</th>
+    <th>Grade</th>
+  </tr>
+  <tr>
+    <td>Mr.rizzi</td>
+    <td>Computer math talent</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>Ms.Ng</td>
+    <td>Math</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>Mr.rosado</td>
+    <td>Ela</td>
+    <td>90</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Helen Bennett</td>
+    <td>UK</td>
+  </tr>
+  <tr>
+    <td>Laughing Bacchus Winecellars</td>
+    <td>Yoshi Tannamuri</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>Magazzini Alimentari Riuniti</td>
+    <td>Giovanni Rovelli</td>
+    <td>Italy</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
